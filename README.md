@@ -21,3 +21,9 @@ This contains everything you need to run your app locally.
 
 3. Run the app:
    `npm run dev`
+
+---
+
+## 👨‍💻 Developed By
+
+**Prem Kumar Modi**
